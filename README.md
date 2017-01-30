@@ -3,6 +3,8 @@ Use Python and Tkinter to build a desktop application with both gui and database
 
 Written and tested in Python 3.5.2
 
+![Alt text](./DailyFileTransfer.PNG)
+
 ## Tech Academy Python Drill
 This application was built as part of the Python curriculum for the Tech Academy.
 
